@@ -1,7 +1,6 @@
-
 # Copyright (c) 2012-2016 Stefan Eilemann <eile@eyescale.ch>
 
-cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 project(GLStats VERSION 0.3.3)
 set(GLStats_VERSION_ABI 1)
 
